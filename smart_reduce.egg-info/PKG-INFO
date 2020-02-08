@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: smart-reduce
+Version: 1.0.0
+Summary: A package for automatically comparing dimensionality reduction algorithms
+Home-page: UNKNOWN
+Author: Aindrila Ghosh
+Author-email: aindrila@ualberta.ca
+License: UNKNOWN
+Description: # Example Package
+        
+        This is a simple example package. You can use
+        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        to write your content.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
